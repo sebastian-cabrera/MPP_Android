@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MPP_Android</string>
+    <string name="app_title">Bienvenido</string>
+    <string name="app_button">Entrar</string>
+</resources>

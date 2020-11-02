@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MPP_Android</string>
+    <string name="app_title">Willkommen</string>
+    <string name="app_button">Betreten</string>
+</resources>
